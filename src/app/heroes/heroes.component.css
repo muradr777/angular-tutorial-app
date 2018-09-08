@@ -10,10 +10,6 @@
   width: 15em;
 }
 .heroes li {
-  display: -webkit-flex;
-  display: -ms-flex;
-  display: flex;
-  align-content: center;
   cursor: pointer;
   position: relative;
   left: 0;
